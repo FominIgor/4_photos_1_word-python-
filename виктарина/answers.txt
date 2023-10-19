@@ -1,0 +1,10 @@
+Images\1.png |сон
+Images\2.png |книга
+Images\3.png |снег
+Images\4.png |косяк
+Images\5.png |массаж
+Images\6.png |ракета
+Images\7.png |музыка
+Images\8.png |ягода
+Images\9.png |тяжелый
+Images\10.png |рефлексия
